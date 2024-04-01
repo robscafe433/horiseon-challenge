@@ -1,32 +1,56 @@
 
-//work on this
+
+# Horiseon first week challenge
+
+## Horiseon company mock web page
 
 
-Repository contains quality README file with description, screenshot, and link to deployed application.
+The motivation for this project was to practice the "Scout Rule" of leaving the code a little cleaner than I found it.   Changing html elements so as to make the code easier to follow, more precise/descriptive element names. Also the importance of alt attributes for accessibility. The importance of a logical html structure and that of a great title. 
+
+This solved the problem of html element names being to vague. CSS also made for a better
+user experience making page easier to visually follow. Also changing title name to
+a more precise name lets user know they are at the right webpage.
+
+I learned how implementing the use of:
+
+ semantic html elements
+        helps make the code (html,css) easier to follow and read by myself and others.
+
+ logical structure
+        makes for a smoother user expeience on the webpage. 
+
+ Heading attributes
+        are important because they organize the content and subsections.
+
+ proper title name
+        lets user know they are at the right webpage.
+
+ use of alt attributes
+        importance of using alt attributes is for accessibility like
+        the visually impaired. 
 
 
-# My Project
+## Table of Contents
 
-In this project I practiced refactoring the index.html file for better developer readability, using the scouting rule.
-
-## Getting Started
-
-To get started, clone this repository and run `npm install`. Then, run `npm start` to start the development server.
+1). Horiseon Webpage
 
 ## Usage
 
-To create a new to-do list, click the "Create New List" button. Enter a name for your list and click "Create".
+url: https://robscafe433.github.io/horiseon-challenge/
 
-To add a new item to a list, click the "Add New Item" button. Enter the text of your item and click "Add".
+Github repository: https://github.com/robscafe433/horiseon-challenge
 
-To mark an item as complete, click the checkbox next to the item.
+Webpage Screenshot:
 
-To delete an item, click the "Delete" button next to the item.
-
-## Contributing
-
-If you would like to contribute to this project, please fork this repository and create a new pull request.
+    ```md
+    ![alt text](assets/images/robscafe433.github.io_horiseon-challenge_.png)
+    ```
 
 ## License
 
-This project is licensed under the MIT License.
+Mit
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
