@@ -42,9 +42,7 @@ Github repository: https://github.com/robscafe433/horiseon-challenge
 
 Webpage Screenshot:
 
-    ```md
-    ![alt text](assets/images/robscafe433.github.io_horiseon-challenge_.png)
-    ```
+   ![alt text](Assets\images\robscafe433.github.io_horiseon-challenge_.png)
 
 ## License
 
